@@ -1,6 +1,6 @@
 # CodeSmith Prep
 
-[CodeSmith](https://www.codesmith.io/)
+[CodeSmith](https://www.codesmith.io/) - [Playlist](https://www.youtube.com/c/Codesmith-School/playlists)
 
 [CSX](https://csx.codesmith.io/home) 
 

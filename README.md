@@ -13,14 +13,14 @@
 
 
 
-##New to Coding Resources
+## New to Coding Resources
 
 [JavaScript For Cats]()
 
 [Codecademy: Introduction to JavaScript]()
 
 
-##Beginner JavaScript Resources
+## Beginner JavaScript Resources
 
 [Treehouse Beginner Resources]()
 
@@ -33,7 +33,7 @@ Intermediate JavaScript Resources
 [Codewars]()
 
 
-##Advanced JavaScript Resources
+## Advanced JavaScript Resources
 
 [Interview Cake]()
 

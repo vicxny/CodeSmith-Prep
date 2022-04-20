@@ -26,7 +26,7 @@
 
 [JavaScript: Understanding the Weird Parts]()
 
-Intermediate JavaScript Resources
+## Intermediate JavaScript Resources
 
 [NodeSchool]()
 

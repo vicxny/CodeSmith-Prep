@@ -1,4 +1,4 @@
-# CodeSmith Prep
+# CodeSmith Prep Checklist
 
 
 [Cracking the Coding Bootcamp - The Definitive Guide](https://haseebq.com/cracking-the-coding-bootcamp-the-definitive-guide/)

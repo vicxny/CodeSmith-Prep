@@ -29,7 +29,7 @@
 
 ### New to Coding Resources
 
-[JavaScript For Cats]()
+[ ][JavaScript For Cats]()
 
 [Codecademy: Introduction to JavaScript]()
 

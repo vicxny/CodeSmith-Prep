@@ -17,12 +17,19 @@
 
 ### New
 
+- [ ] []()
+
 ### Beginner
+
+- [ ] []()
 
 ### Intermediate
 
+- [ ] []()
+
 ### Advanced
 
+- [ ] []()
 
 ## Extra
 
@@ -31,25 +38,25 @@
 
 - [ ] [JavaScript For Cats]()
 
-[Codecademy: Introduction to JavaScript]()
+- [ ] [Codecademy: Introduction to JavaScript]()
 
 
 ### Beginner JavaScript Resources
 
-[Treehouse Beginner Resources]()
+- [ ] [Treehouse Beginner Resources]()
 
-[JavaScript: Understanding the Weird Parts]()
+- [ ] [JavaScript: Understanding the Weird Parts]()
 
 ### Intermediate JavaScript Resources
 
-[NodeSchool]()
+- [ ] [NodeSchool]()
 
-[Codewars]()
+- [ ] [Codewars]()
 
 
 ### Advanced JavaScript Resources
 
-[Interview Cake]()
+- [ ] [Interview Cake]()
 
-[JavaScript30]()
+- [ ] [JavaScript30]()
 

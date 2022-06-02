@@ -43,6 +43,10 @@
 - [ ] [JavaScript the Hard Parts - Classes and Prototypes]()
 - [ ] [JavaScript the Hard Parts - Async & Promises]()
 
+### Other
+- [ ] [CSX Pair Programming]()
+- [ ] [Chrome Extension]()
+
 ## Extra
 
 

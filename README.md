@@ -17,19 +17,31 @@
 
 ### New
 
-- [ ] []()
+- [ ] [CSX Precourse - Part 1]()
+- [ ] [CSX Precourse - Part 2]()
+- [ ] [Intro to JavaScript - Variables, Control Flow, and Looping]()
+- [ ] [Web Development Fundamentals: HTML & CSS]()
 
 ### Beginner
 
-- [ ] []()
+- [ ] [CSX Functions & Execution Context]()
+- [ ] [Intro to JavaScript - Functions and Objects]()
 
 ### Intermediate
 
-- [ ] []()
+- [ ] [CSX Callbacks & Higher-order Functions]()
+- [ ] [CSX Closure, Scope & Execution Context]()
+- [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]()
+- [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context]()
 
 ### Advanced
 
-- [ ] []()
+- [ ] [CSX Recursion]()
+- [ ] [CSX Asynchronous JavaScript]()
+- [ ] [CSX Object Oriented Programming]()
+- [ ] [JavaScript the Hard Parts - Exploring Recursion in JavaScript]()
+- [ ] [JavaScript the Hard Parts - Classes and Prototypes]()
+- [ ] [JavaScript the Hard Parts - Async & Promises]()
 
 ## Extra
 

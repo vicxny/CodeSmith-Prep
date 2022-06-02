@@ -45,7 +45,7 @@
 
 ### Other
 - [ ] [CSX Pair Programming]()
-- [ ] [Chrome Extension]()
+- [ ] [CSX Chrome Extension]()
 
 ## Extra
 

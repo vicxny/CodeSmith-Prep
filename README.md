@@ -52,23 +52,23 @@
 
 ### New to Coding Resources
 
-- [ ] [JavaScript For Cats]()
-- [ ] [Codecademy: Introduction to JavaScript]()
+- [ ] [JavaScript For Cats](http://jsforcats.com/)
+- [ ] [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 
 ### Beginner JavaScript Resources
 
 - [ ] [Treehouse Beginner Resources]()
-- [ ] [JavaScript: Understanding the Weird Parts]()
+- [ ] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
 ### Intermediate JavaScript Resources
 
-- [ ] [NodeSchool]()
-- [ ] [Codewars]()
+- [ ] [NodeSchool](https://nodeschool.io/)
+- [ ] [Codewars](https://www.codewars.com/)
 
 
 ### Advanced JavaScript Resources
 
-- [ ] [Interview Cake]()
-- [ ] [JavaScript30]()
+- [ ] [Interview Cake](https://www.interviewcake.com/)
+- [ ] [JavaScript30](https://javascript30.com/)
 

@@ -7,9 +7,9 @@
 
 [CSX](https://csx.codesmith.io/home) 
 
-[JAVASCRIPT FOR BEGINNERS](https://www.codesmith.io/javascript-for-beginners) 
+[JavaScript for Beginners](https://www.codesmith.io/javascript-for-beginners) 
 
-[CS PREP](https://www.codesmith.io/bootcamp-prep) 
+[CS Prep](https://www.codesmith.io/bootcamp-prep) 
 
 
 ## [CSX](https://csx.codesmith.io/home) 

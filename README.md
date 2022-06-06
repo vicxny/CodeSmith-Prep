@@ -58,7 +58,7 @@
 
 ### Beginner JavaScript Resources
 
-- [ ] [Treehouse Beginner Resources]()
+- [ ] [Treehouse Beginner Resources](https://teamtreehouse.com/)
 - [ ] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
 ### Intermediate JavaScript Resources

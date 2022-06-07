@@ -12,7 +12,7 @@
 [CS Prep](https://www.codesmith.io/bootcamp-prep) 
 
 
-## [CSX](https://csx.codesmith.io/home) 
+## [CSX](https://csx.codesmith.io/home) & Coding WorkShop
 
 
 ### New

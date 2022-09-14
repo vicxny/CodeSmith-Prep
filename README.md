@@ -17,35 +17,35 @@
 
 ### New
 
-- [ ] [CSX Precourse - Part 1]()
-- [ ] [CSX Precourse - Part 2]()
+- [ ] [CSX Precourse - Part 1](https://csx.codesmith.io/login)
+- [ ] [CSX Precourse - Part 2](https://csx.codesmith.io/login)
 - [ ] [Intro to JavaScript - Variables, Control Flow, and Looping]()
 - [ ] [Web Development Fundamentals: HTML & CSS]()
 
 ### Beginner
 
-- [ ] [CSX Functions & Execution Context]()
+- [ ] [CSX Functions & Execution Context](https://csx.codesmith.io/login)
 - [ ] [Intro to JavaScript - Functions and Objects]()
 
 ### Intermediate
 
-- [ ] [CSX Callbacks & Higher-order Functions]()
-- [ ] [CSX Closure, Scope & Execution Context]()
+- [ ] [CSX Callbacks & Higher-order Functions](https://csx.codesmith.io/login)
+- [ ] [CSX Closure, Scope & Execution Context](https://csx.codesmith.io/login)
 - [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]()
 - [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context]()
 
 ### Advanced
 
-- [ ] [CSX Recursion]()
-- [ ] [CSX Asynchronous JavaScript]()
-- [ ] [CSX Object Oriented Programming]()
+- [ ] [CSX Recursion](https://csx.codesmith.io/login)
+- [ ] [CSX Asynchronous JavaScript](https://csx.codesmith.io/login)
+- [ ] [CSX Object Oriented Programming](https://csx.codesmith.io/login)
 - [ ] [JavaScript the Hard Parts - Exploring Recursion in JavaScript]()
 - [ ] [JavaScript the Hard Parts - Classes and Prototypes]()
 - [ ] [JavaScript the Hard Parts - Async & Promises]()
 
 ### Other
-- [ ] [CSX Pair Programming]()
-- [ ] [CSX Chrome Extension]()
+- [ ] [CSX Pair Programming](https://csx.codesmith.io/login)
+- [ ] [CSX Chrome Extension](https://csx.codesmith.io/login)
 
 ## Extra
 

@@ -25,27 +25,29 @@
 ### Beginner
 
 - [ ] [CSX Functions & Execution Context](https://csx.codesmith.io/login)
-- [ ] [Intro to JavaScript - Functions and Objects]()
+- [ ] [Intro to JavaScript - Functions and Objects](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5uT_rn4VsBHLA0eeC_wxhC)
 
 ### Intermediate
 
 - [ ] [CSX Callbacks & Higher-order Functions](https://csx.codesmith.io/login)
 - [ ] [CSX Closure, Scope & Execution Context](https://csx.codesmith.io/login)
 - [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]()
-- [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context]()
+- [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context](https://www.youtube.com/playlist?list=PLWrQZnG8l0E6zuGsmBmRzbl1_T4Z4uZ6H)
 
 ### Advanced
 
 - [ ] [CSX Recursion](https://csx.codesmith.io/login)
 - [ ] [CSX Asynchronous JavaScript](https://csx.codesmith.io/login)
 - [ ] [CSX Object Oriented Programming](https://csx.codesmith.io/login)
-- [ ] [JavaScript the Hard Parts - Exploring Recursion in JavaScript]()
+- [ ] [JavaScript the Hard Parts - JavaScript The Hard Parts: Object Oriented Programming](https://www.youtube.com/watch?v=aAAS9cEuFYI&list=PLWrQZnG8l0E6mYguSNWHZEz7KrfZULz8d)
+- [ ] [JavaScript the Hard Parts - Exploring Recursion in JavaScript](https://www.youtube.com/playlist?list=PLWrQZnG8l0E59V2YGqIVT-wvlYtse0jqO)
 - [ ] [JavaScript the Hard Parts - Classes and Prototypes]()
 - [ ] [JavaScript the Hard Parts - Async & Promises]()
 
 ### Other
 - [ ] [CSX Pair Programming](https://csx.codesmith.io/login)
 - [ ] [CSX Chrome Extension](https://csx.codesmith.io/login)
+- [ ] [Javascript the Hard Parts](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5hMTpzCK8WjP3nJ93jUEyk)
 
 ## Extra
 

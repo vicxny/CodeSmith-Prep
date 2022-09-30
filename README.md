@@ -15,6 +15,9 @@
 ## [CSX](https://csx.codesmith.io/home) & Coding WorkShop
 
 
+- [ ] [Intro to JavaScript & Web Development Fundamentals](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5uT_rn4VsBHLA0eeC_wxhC)
+- [ ] [Javascript the Hard Parts](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5hMTpzCK8WjP3nJ93jUEyk)
+
 ### New
 
 - [ ] [CSX Precourse - Part 1](https://csx.codesmith.io/login)
@@ -31,7 +34,7 @@
 
 - [ ] [CSX Callbacks & Higher-order Functions](https://csx.codesmith.io/login)
 - [ ] [CSX Closure, Scope & Execution Context](https://csx.codesmith.io/login)
-- [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]-[]()
+- [ ] JavaScript the Hard Parts - Callbacks & Higher Order Functions - [Part 1]()
 - [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context](https://www.youtube.com/playlist?list=PLWrQZnG8l0E6zuGsmBmRzbl1_T4Z4uZ6H)
 
 ### Advanced
@@ -47,7 +50,6 @@
 ### Other
 - [ ] [CSX Pair Programming](https://csx.codesmith.io/login)
 - [ ] [CSX Chrome Extension](https://csx.codesmith.io/login)
-- [ ] [Javascript the Hard Parts](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5hMTpzCK8WjP3nJ93jUEyk)
 
 ## Extra
 

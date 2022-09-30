@@ -20,18 +20,18 @@
 - [ ] [CSX Precourse - Part 1](https://csx.codesmith.io/login)
 - [ ] [CSX Precourse - Part 2](https://csx.codesmith.io/login)
 - [ ] [Intro to JavaScript - Variables, Control Flow, and Looping]()
-- [ ] [Web Development Fundamentals: HTML & CSS](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5uT_rn4VsBHLA0eeC_wxhC)
+- [ ] [Web Development Fundamentals: HTML & CSS]()
 
 ### Beginner
 
 - [ ] [CSX Functions & Execution Context](https://csx.codesmith.io/login)
-- [ ] [Intro to JavaScript - Functions and Objects](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5uT_rn4VsBHLA0eeC_wxhC)
+- [ ] [Intro to JavaScript - Functions and Objects]()
 
 ### Intermediate
 
 - [ ] [CSX Callbacks & Higher-order Functions](https://csx.codesmith.io/login)
 - [ ] [CSX Closure, Scope & Execution Context](https://csx.codesmith.io/login)
-- [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]()
+- [ ] [JavaScript the Hard Parts - Callbacks & Higher Order Functions]-[]()
 - [ ] [JavaScript the Hard Parts - Closure, Scope & Execution Context](https://www.youtube.com/playlist?list=PLWrQZnG8l0E6zuGsmBmRzbl1_T4Z4uZ6H)
 
 ### Advanced

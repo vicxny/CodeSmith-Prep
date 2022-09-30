@@ -20,7 +20,7 @@
 - [ ] [CSX Precourse - Part 1](https://csx.codesmith.io/login)
 - [ ] [CSX Precourse - Part 2](https://csx.codesmith.io/login)
 - [ ] [Intro to JavaScript - Variables, Control Flow, and Looping]()
-- [ ] [Web Development Fundamentals: HTML & CSS]()
+- [ ] [Web Development Fundamentals: HTML & CSS](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5uT_rn4VsBHLA0eeC_wxhC)
 
 ### Beginner
 

@@ -1,5 +1,8 @@
 # CodeSmith Prep Checklist
 
+## Notes
+
+[CIRR Report](https://cirr.org/data)
 
 [Cracking the Coding Bootcamp - The Definitive Guide](https://haseebq.com/cracking-the-coding-bootcamp-the-definitive-guide/)
 

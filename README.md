@@ -1,6 +1,6 @@
 # CodeSmith Prep Checklist
 
-[CodeSmith](https://www.codesmith.io/javascript-resources) - [Playlist](https://www.youtube.com/c/Codesmith-School/playlists)
+[CodeSmith](https://www.codesmith.io/javascript-learning-resources) - [Playlist](https://www.youtube.com/c/Codesmith-School/playlists)
 
 ## Notes
 
